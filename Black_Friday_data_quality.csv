@@ -1,0 +1,13 @@
+,data types,Missing Values,Present Values,Unique Values,Minimum Values,Maximum Values
+Age,object,0,783667,7,0,0
+City_Category,object,0,783667,3,0,0
+Gender,object,0,783667,2,0,0
+Marital_Status,int64,0,783667,2,0,1
+Occupation,int64,0,783667,21,0,20
+Product_Category_1,int64,0,783667,20,1,20
+Product_Category_2,float64,245982,537685,17,2.0,18.0
+Product_Category_3,float64,545809,237858,15,3.0,18.0
+Product_ID,object,0,783667,3677,0,0
+Purchase,float64,233599,550068,18105,12.0,23961.0
+Stay_In_Current_City_Years,object,0,783667,5,0,0
+User_ID,int64,0,783667,5891,1000001,1006040
